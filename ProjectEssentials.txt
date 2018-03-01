@@ -1,0 +1,12 @@
+Akka Actors
+Callable object
+Git,Bash
+Bitbucket
+Bamboo
+Spring Boot
+Micro services
+Spring Annotation config
+Dozer mapping
+
+
+
