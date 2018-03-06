@@ -1,0 +1,28 @@
+Basic GIT commands
+++++++++++++++++++
+
+Checking out remote repo to local repo
+--------------------------------------
+git clone [repo_name]
+git checkout [branch_name]
+git pull origin master
+
+Commiting the changes to local/remote repo
+------------------------------------------
+git commit [file_name] -m "Commit comments"
+git add [folder_or_file_name]
+git push origin master
+
+Checking the working copy details
+----------------------------------
+git status
+git branch
+git branch -a
+
+
+Pull Requests - Workflows
+-------------------------
+Feature workflow
+Git workflow
+Fork workflow
+
